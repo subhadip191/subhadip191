@@ -11,9 +11,9 @@
 <td width="40%" rowspan="2" valign="middle" align="center">
 
 <img
-src="https://streak-stats.demolab.com?user=subhadip-191&theme=tokyonight&hide_border=true&background=00000000"
-width="100%"
-alt="GitHub Streak"/>
+  src="https://streak-stats.demolab.com?user=subhadip191&theme=tokyonight&hide_border=true&background=00000000"
+  width="100%"
+  alt="GitHub Streak"/>
 
 </td>
 
