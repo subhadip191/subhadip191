@@ -5,8 +5,8 @@
 <table width="100%">
 
 <tr>
-<th width="30%" align="left">🚀 Currently Building</th>
-<th width="30%" align="left">📚 Currently Learning</th>
+<th width="30%" align="left">🚀 Now Building</th>
+<th width="30%" align="left">📚 Current Focus</th>
 
 <td width="40%" rowspan="2" valign="middle" align="center">
 
