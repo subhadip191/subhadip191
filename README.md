@@ -9,23 +9,18 @@
 
 <td width="50%" valign="top">
 
-## 🚀 Currently Building
+### 🚀 Now Building
 
-```text
-🛡️ Fraud Detection System
-
-```
+- 🛡️ Fraud Detection System
 
 </td>
 
 <td width="50%" valign="top">
 
-## 📚 Currently Learning
+### 📚 Current Focus
 
-```text
-🧠 Large Language Models (LLMs) | 🐳 Docker
-
-```
+- 🧠 Large Language Models (LLMs)
+- 🐳 Docker
 
 </td>
 
