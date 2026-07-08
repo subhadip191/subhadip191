@@ -2,8 +2,6 @@
   <img src="assets/Banner.png" width="100%" alt="Banner">
 </p>
 
-v## 🚀 Current Journey
-
 <table width="100%">
 
 <tr>
