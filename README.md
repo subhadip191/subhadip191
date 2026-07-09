@@ -135,5 +135,4 @@
 
 </table>
 
-
-📌 Check out my pinned repositories below for project details and results.
+### 📌 Check out my pinned repositories below for project details and results.
