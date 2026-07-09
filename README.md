@@ -134,3 +134,6 @@
 </tr>
 
 </table>
+
+
+📌 Check out my pinned repositories below for project details and results.
