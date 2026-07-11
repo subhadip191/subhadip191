@@ -23,7 +23,7 @@
 
 <td valign="middle">
 
-🛡️ Fraud Detection System<br>
+🛡️ [Cardiac Disease Detection](https://github.com/subhadip191/cardiac-disease-detection-using-DL)<br>
 
 </td>
 
